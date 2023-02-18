@@ -4,8 +4,27 @@ touch
 ls -la
 cat >
 find
+find -type d -name
 grep
+grep -i
+grep -v
+grep -c
+grep -ic
+grep -R
 git add
 git commit
 git push
 git checkout
+Ctrl+C
+CP
+Mv
+Vim
+Rm
+Rm -r
+less
+nano
+Vi
+git config --global user.name ""
+git config --global user.email ""
+#!/bin/bash - skript for bas
+

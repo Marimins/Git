@@ -1,0 +1,3 @@
+Title of the Checklist
+Description or purpose of the checklist
+List of items to be checked, each with a checkbox or other indicator to mark whether it has been completed or not
